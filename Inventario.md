@@ -1,19 +1,21 @@
 # APLICACIÓN INVENTARIO
 
 ## **ÍNDICE DE CONTENIDOS**
-1. [INTRODUCCION](#introducción)
-2. [INSTALACIÓN](#instalación)
-3. [TRABAJAR CON LA APLICACIÓN](#trabajar-con-la-aplicación)
-   1. [Como funciona internamente el inventario](#como-funciona-internamente-el-inventario)
-   2. [Menú configuración](#menú-configuración)
-   3. [Gestión de almacenes](#gestión-de-almacenes)
-   4. [Gestión de ubicaciones](#gestión-de-ubicaciones)
-   5. [Crear una categoría de productos](#crear-una-categoría-de-productos)
-   6. [Crear un nuevo producto ](#crear-un-nuevo-producto)
-   7. [Crear una regla de abastecimiento](#crear-una-regla-de-abastecimiento)
-   8. [Generar informes y exportar datos](#generar-informes-y-exportar-datos)
-   9. [Relación entre aplicación Inventario - Compras - Ventas](#relación-entre-aplicación-inventario---compras---ventas)
-   10. [Conclusión](#conclusión)
+- [APLICACIÓN INVENTARIO](#aplicación-inventario)
+  - [**ÍNDICE DE CONTENIDOS**](#índice-de-contenidos)
+  - [**INTRODUCCIÓN**](#introducción)
+  - [**INSTALACIÓN**](#instalación)
+  - [**TRABAJAR CON LA APLICACIÓN**](#trabajar-con-la-aplicación)
+    - [Como funciona internamente el inventario](#como-funciona-internamente-el-inventario)
+    - [***Menú Configuración***](#menú-configuración)
+    - [***Gestión de almacenes***](#gestión-de-almacenes)
+    - [***Gestión de ubicaciones***](#gestión-de-ubicaciones)
+    - [***Crear una categoría de productos***](#crear-una-categoría-de-productos)
+    - [***Crear un nuevo producto***](#crear-un-nuevo-producto)
+    - [***Crear una regla de abastecimiento***](#crear-una-regla-de-abastecimiento)
+    - [***Generar informes y exportar datos***](#generar-informes-y-exportar-datos)
+    - [***Relación entre aplicación Inventario - Compras - Ventas***](#relación-entre-aplicación-inventario---compras---ventas)
+    - [***Conclusión***](#conclusión)
 
 ## **INTRODUCCIÓN**
 Una empresa necesita conocer en todo momento el número de productos que tiene almacenados. El tener exceso de ellos o defecto puede tener unas consecuencias nefastas para ella. Esta aplicación nos va a permitir llevar a cabo la gestión del stock.
