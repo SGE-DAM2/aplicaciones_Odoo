@@ -1,113 +1,117 @@
-# APLICACIÓN CRM
-
-## **ÍNDICE DE CONTENIDOS**
-1. [INTRODUCCION](#introducción)
-2. [TRABAJAR CON CRM](#trabajar-con-la-aplicación)
-   1. [Ventas](#ventas)
-      1. [Mi pipeline](#mi-pipeline)
-      2. [Mis actividades](#mis-actividades)
-      3. [Equipos](#equipos)
-      4. [Clientes](#clientes)
-   2. [Informes ](#informes)
-      1. [Previsión](#prevision)
-      2. [Pipeline](#pipeline)
-      3. [Leads](#leads)
-      4. [Actividades](#actividades)
-   3. [Configuración](#configuración)
-      1. [Ajustes](#ajustes)
-         1. [Ajustes](#ajustes)
-         2. [Equipos de ventas](#equipos-de-ventas)
-         3. [Tipos de actividad](#tipos-de-actividad)
-      2. [Pipeline](#pipeline)
-         1. [Etiquetas](#etiquetas)
-         2. [Motivos de pérdida](#motivos-de-perdida)
-      3. [Generación de iniciativas](#generacion-de-iniciativas)
-         1. [Solicitudes de minado de leads](#solicitudes-de-minado-de-leads)
-3.  [CONCLUSIÓN](#conclusión)
-
-## **INTRODUCCIÓN**
-El módulo de CRM de Odoo ofrece una serie de funcionalidades para ayudar a las empresas a gestionar sus relaciones con los clientes de manera eficiente. Algunas de estas funcionalidades incluyen:
-
-- Registro y seguimiento de leads: permite a las empresas captar y gestionar leads, o clientes potenciales, a través de diferentes canales, como el correo electrónico, el teléfono o la web. También permite a las empresas asignar y seguir las tareas y actividades relacionadas con cada lead.
-- Gestión de oportunidades: permite a las empresas gestionar y seguir las oportunidades de negocio, desde el primer contacto hasta la cierre de la venta.
-- Gestión de clientes: permite a las empresas gestionar y seguir a sus clientes actuales, incluyendo la información de contacto, historial de compras y preferencias.
-- Seguimiento de actividades: permite a las empresas llevar un registro de las actividades y tareas realizadas con cada cliente, así como planificar y programar actividades futuras.
-- Análisis y reporting: ofrece una serie de informes y gráficos para ayudar a las empresas a analizar y entender su relación con los clientes y optimizar su estrategia de CRM.
-
-Para poder entrar en la aplicación se ha de clicar en el icono correspondiente:
-
+# **APLICACIÓN CRM** 
 ![crm]
 
-## **TRABAJAR CON CRM**
-### **VENTAS**
-#### **Mi pipeline**
+# **ÍNDICE DE CONTENIDOS**
+1. [Resumen](#resumen)
+2. [Características principales](#caracteristicas-principales)
+3. [Instalación](#instalacion)
+4. [Uso](#uso)
+    1. [Generar oportunidad de venta](#generar-oportunidad-de-venta)
+    2. [Generar tarea o reunión](#generar-tarea-o-reunión)
+    3. [Generar informe](#generar-informe)
+5. [Personalización](#personalización)
+6. [Conclusiones](#conclusiones)
 
-En la ventana principal del CRM se aprecia un resumen de los clientes potenciales generados en el propio módulo.
-Se pueden crear y mover desde el mismo dashboard a las distintas estapas con las que se trabaja: 
-- Nuevo
-- Calificado
-- Propuesta
-- Ganado
 
-Además de poder crearse nuevas etapas para una mejor gestión de los clientes, editar las ya existentes, doblarlas para no verlas en el resumen de los datos y eliminarlas.
+# **RESUMEN**
+El módulo CRM (Customer Relationship Management) de Odoo es una herramienta que ayuda a las empresas a gestionar sus relaciones con los clientes. Con él, puedes llevar un registro de tus clientes, sus compras, sus preferencias y sus quejas, entre otras cosas.
+
+# **CARACTERÍSTICAS PRINCIPALES**
+- Registro de clientes: Permite llevar un registro de todos tus clientes y sus datos personales, como nombre, dirección, correo electrónico y número de teléfono.
+- Seguimiento de oportunidades de venta: Permite llevar un seguimiento de las oportunidades de venta, incluyendo el presupuesto, el estado de la oportunidad y las tareas pendientes.
+- Gestión de tareas y reuniones: Permite programar y gestionar tareas y reuniones relacionadas con los clientes.
+- Generación de informes: Permite generar informes de ventas, oportunidades de venta y tareas pendientes.
+- Integración con otros módulos: El módulo CRM se integra con otros módulos de Odoo, como el módulo de facturación y el módulo de inventario, lo que permite una gestión más eficiente de las relaciones con los clientes.
 
 ![crm_dashboard]
 
-Además la pantalla principal cuenta con la barra de navegación:
-![crm_navigation_bar]
+# **INSTALACIÓN**
+Para instalar el módulo CRM de Odoo, sigue estos pasos:
 
-Donde se puede usar: 
-- El buscador principal
-- El filtrado
-- La agrupación por parámetros de ordenación
-- Buscar los favoritos
+1. Accede al menú Aplicaciones en la página principal de Odoo.
+2. Haz clic en el botón Instalar en la sección de Aplicaciones.
+3. Busca el módulo CRM en la lista de aplicaciones disponibles y selecciónalo.
+4. Haz clic en el botón Instalar para iniciar la instalación del módulo.
 
-A parte de poder filtrar la visibilidad del propio dashboard con los últimos botones de la barra de navegación, siendo estos:
+Una vez instalado, encontrarás el módulo CRM en el menú principal de Odoo.
 
-- Visualización del método Kanban
-- Visualización en lista
-- Calendario
-- Visualización del pivote
-- Visualizar el gráfico
-- Mapa
-- Planificador de actividades
+![crm_instalacion]
 
-Pantalla de `Calendario`
-![crm_calendar]
+# **USO**
+Para comenzar a utilizar el módulo CRM de Odoo, sigue estos pasos:
 
-Pantalla de `Gráfico`
-![crm_graphic]
+1. Accede al módulo CRM desde el menú principal de Odoo.
+2. Haz clic en el botón Crear para crear un nuevo registro de cliente.
+3. Introduce los datos del cliente en el formulario que se muestra.
+4. Haz clic en el botón Guardar para guardar el registro de cliente.
 
-Pantalla de `Mapa`
-![crm_map]
+Una vez creado el registro de cliente, podrás utilizar el módulo CRM para llevar un seguimiento de las oportunidades de venta, programar tareas y reuniones, y generar informes.
 
-Pantalla de `Actividad`
-![crm_activity]
+---
+## **Generar oportunidad de venta**
+Para crear una oportunidad de venta, sigue estos pasos:
 
+1. Accede al módulo CRM desde el menú principal de Odoo.
+2. Haz clic en el botón Crear en la sección de Oportunidades.
+3. Selecciona el cliente al que se refiere la oportunidad de venta.
+4. Introduce el presupuesto y el estado de la oportunidad en el formulario que se muestra.
+5. Haz clic en el botón Guardar para guardar la oportunidad de venta.
 
+![crm_crear_venta]
+---
+## **Generar tarea o reunión**
+Para programar una tarea o reunión, sigue estos pasos:
 
-### *Mis actividades*
+1. Accede al módulo CRM desde el menú principal de Odoo.
+2. Haz clic en el botón Crear en la sección de Tareas o Reuniones.
+3. Selecciona el cliente al que se refiere la tarea o reunión.
+4. Introduce la fecha y hora de la tarea o reunión en el formulario que se muestra.
+5. Haz clic en el botón Guardar para guardar la tarea o reunión.
 
-En esta pestaña podremos crear todas las actividades de la empresa para poder gestionar así las distintas oportunidades de la misma.
+![crm_tarea]
+---
+## **Generar informe**
+Para generar un informe, sigue estos pasos:
 
-![crm_activity_test]
+1. Accede al módulo CRM desde el menú principal de Odoo.
+2. Haz clic en el botón Informes en la barra de menú superior.
+3. Selecciona el tipo de informe que deseas generar (ventas, oportunidades de venta o tareas pendientes).
+4. Selecciona el rango de fechas para el informe.
+5. Haz clic en el botón Generar informe para ver el informe generado.
 
-Como se puede observar, se ha de introducir un título de la actividad, el ingreso esperado junto con su probabilidad de obtenerlo y el cliente objetivo y sus datos.
+![crm_crear_informe]
+---
+# **PERSONALIZACIÓN**
+El módulo CRM de Odoo te permite personalizar algunos aspectos de su funcionamiento. Por ejemplo, puedes:
 
-A parte, se puede poner etiquetas a la propia actividad, propiedades y notas.
+- Crear nuevos campos para el formulario de clientes, oportunidades de venta y tareas.
+- Cambiar el diseño de los formularios y las vistas de listado.
+- Configurar las notificaciones por correo electrónico que se envían al crear o actualizar un registro.
 
-En la información adicional se añadirán la información de contacto, web y de seguimiento:
-![crm_activity_aditionalinfo]
+Para acceder a las opciones de personalización, sigue estos pasos:
 
+1. Accede al módulo CRM desde el menú principal de Odoo.
+2. Haz clic en el botón Configuración en la barra de menú superior.
+3. Selecciona la opción de personalización que deseas realizar.
 
+Ten en cuenta que algunas opciones de personalización requieren conocimientos de programación y pueden ser un poco complejas. Si no te sientes seguro de realizar estas personalizaciones por tu cuenta, puedes solicitar la ayuda de un profesional o de la comunidad de Odoo.
 
+![crm_configuracion]
 
-[crm]: imagenes_inventario/crm.jpg "icono de crm"
-[crm_dashboard]: imagenes_inventario/crm_dashboard.JPG "Dashboard de crm"
-[crm_navigation_bar]: imagenes_inventario/crm_navigation_bar.jpg "barra de navegación de crm"
-[crm_calendar]: imagenes_inventario/crm_calendar.jpg "Calendario del crm"
-[crm_graphic]: imagenes_inventario/crm_graphic.jpg "Gráfico del crm"
-[crm_map]: imagenes_inventario/crm_map.jpg "Mapa del crm"
-[crm_activity]: imagenes_inventario/crm_activity.jpg "Actividad del crm"
-[crm_activity_test]: imagenes_inventario/crm_activity_test.JPG "Generación de una actividad de prueba"
-[crm_activity_aditionalinfo]: imagenes_inventario/crm_activity_aditionalinfo.jpg "Información adicional de la actividad"
+# **CONCLUSIONES**
+En conclusión, el módulo CRM de Odoo es una herramienta muy útil para gestionar las relaciones con los clientes de una empresa. Con él, puedes llevar un registro detallado de tus clientes, sus compras, sus preferencias y sus quejas, y utilizar esta información para ofrecer un mejor servicio y tomar decisiones más acertadas.
+
+Además, el módulo CRM de Odoo se integra con otros módulos de Odoo, como el de facturación y el de inventario, lo que te permite obtener una visión más completa y precisa de las relaciones con los clientes.
+
+Si deseas utilizar el módulo CRM de Odoo en tu empresa, es importante que lo hagas de forma consistente y sistemática, y que mantengas los datos de tus clientes actualizados. Además, debes utilizar el módulo de forma ética y respetuosa, respetando la confidencialidad de los datos de tus clientes.
+
+Espero que esta documentación te haya ayudado a entender el funcionamiento y las características del módulo CRM de Odoo. Si tienes alguna pregunta o necesitas más detalles, no dudes en hacerme saber.
+
+[crm]: imagenes_inventario/crm.JPG "CRM"
+[crm_dashboard]: imagenes_inventario/crm_dashboard.jpg "Dashboard"
+[crm_instalacion]: imagenes_inventario/crm_instalacion.JPG "Instalación"
+[crm_nueva_venta]: imagenes_inventario/crm_nueva_venta.JPG "Nueva oportunidad de venta"
+[crm_crear_venta]: imagenes_inventario/crm_crear_venta.JPG "Creando oportunidad de venta"
+[crm_tarea]: imagenes_inventario/crm_tarea.JPG "Crear tarea"
+[crm_crear_informe]: imagenes_inventario/crm_crear_informe.JPG "Crear informe"
+[crm_configuracion]: imagenes_inventario/crm_configuracion.JPG "Configuración"
