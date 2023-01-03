@@ -7,11 +7,14 @@
 3. [TRABAJAR CON LA APLICACIÓN](#trabajar-con-la-aplicación)
    
    - [Añadir vehiculo ](#añadir-vehiculo)
-   - [Menu de vehiculo ](#menú-de-vehiculo)
+   - [Menu de vehiculo ](#menú-de-vehiculo)´
+      1. [Historial](#historial)
+      2. [Contratos](#contratos)
+      3. [Servicios](#servicios)
+      4. [Odometro](#odometro)
   
-   8. [Generar informes y exportar datos](#generar-informes-y-exportar-datos)
-   9. [Relación entre aplicación Inventario - Compras - Ventas](#relación-entre-aplicación-inventario---compras---ventas)
-   10. [Conclusión](#conclusión)
+4. [CREACIÓN DE INFORMES](#creación-de-informes)
+5. [CONCLUSION](#conclusión)
 
 
 ## **INTRODUCCIÓN**
@@ -63,7 +66,7 @@ Podemos contemplar que consta de 4 apartados diferentes
 3. Servicios
 4. Odómetro
 
-### Historial
+### **Historial**
 En el apartado de hisotial, se nos mostraran todas las personas que han conducido dicho automovil, en que periodo de tiempo y si hay algún archivo adjunto de importancia, como por ejemplo puede ser el pago de una reparacion etc...
 
 Actualmente, solo ha conducido el coche Elaya
@@ -74,6 +77,32 @@ Debemos dar a crear y de forma inmediata, debajo de Elaya, nos aparecerá una fi
 Si somos curiosos y nos dirigimos a la aplicación de empleados, nos damos cuenta de que el personal con vehiculo asignado, nos aparece que tiene uso de el.
 ![vehiculo_lian]
 
+### **Contratos**
+En él, guardaremos un registro de seguros, leasing etc... Si uno de estos está apunto de finalizar, la propia aplicación te avisará.
+
+Procedamos a crear un contrato:
+
+Al dar a crear, obsevamos como se nos autocompleta el conductor, con la informacion de registros añadida anteriormente.
+![inicio_contrato]
+Una vez añadida la informacion, obsevamos que tambien se muestra por filas
+![seguro_vehiculo]
+
+### **Servicios**
+Registramos reparaciones ocasionales, mantenimientos fijos etc...
+Vamos a realizar un mantenimiento fijo, como hemos realizado anteriormente, presionamos sobre crear y añadiremos la información necesaria
+![servicios]
+Nos damos cuenta de que la información relevante, se muestra de manera inmediata, lo cual facilita su uso, además, al final, nos hace un recuento del precio. 
+
+
+### **Odometro**
+En este apartado, mantenemos un registro de los kilometros realizados con el coche, de manera diaria, mensual, anual etc... se escogerá la que más seguridad conlleve
+![odometro]
+
+
+
+
+
+
 [flota]: imagenes_aplicacion/flota.jpg "Opcion flora"
 [flota_mensajeInicial]: imagenes_aplicacion/flota_mensajeInicial.jpg "Mensaje inicial: Agregar vehiculo"
 [aprenda_mas]: imagenes_aplicacion/aprendaMas_Flota.jpg
@@ -83,3 +112,9 @@ Si somos curiosos y nos dirigimos a la aplicación de empleados, nos damos cuent
 [elaya_conductora]: imagenes_aplicacion/elaya_conductora.jpg
 [autoayuda]: imagenes_aplicacion/autoayuda_nuevo.jpg
 [vehiculo_lian]:imagenes_aplicacion/vehiculo_lian.jpg
+[inicio_contrato]:imagenes_aplicacion/inicio_contrato.jpg
+[seguro_vehiculo]:imagenes_aplicacion/Seguro%20vehiculo.jpg
+[servicios]:imagenes_aplicacion/servicios.jpg
+[informe]:imagenes_aplicacion/informe.jpg
+[grafico]:imagenes_aplicacion/grafico.jpg
+[odometro]:imagenes_aplicacion/odometro.jpg
