@@ -7,6 +7,7 @@
 3. [TRABAJAR CON LA APLICACIÓN](#trabajar-con-la-aplicación)
     - [Añadir tarea](#añadir-tarea)
     - [Rechazar invitación](#rechazar-invitación)
+4. [CONFIGURACIÓN](#configuración)
 
 ## **INTRODUCCIÓN**
 Todas las empresas, necesitan mantener un orden y asignar una lista de tareas a realizar de manera diaria, de esta forma, ninguna tarea será olvidada y se realizará todo lo necesarios en un intervalo de tiempo determinado. 
@@ -56,8 +57,20 @@ Hemos añadido la reunión, pero a los cinco minutos, observamos como la reunion
 
 ## Forma de visualizacion compacta
 En la parte superior del calendario, vemos como nos aparenden unas listas, si pinchamos encima, nos muestran todas las reuniones de forma compacta.
+
 ![listadoReunion]
 ![reuniones]
+
+## **CONFIGURACIÓN**
+La aplicación posee un ajuste configuración con el apartado de recordatorios. Nos vienen varios tipos de alerta, cinco como notificación y dos como mensaje de correo electronico. A estas alertas, se les puede añadir más dependiendo de nosotros
+![confCalendario]
+![alertas]
+
+Como ejemplo, vamos a proceder a crear una alerta nueva 
+![notfSMS]
+Como podemos ver, las alertas tambien pueden llegar al numero de telefono de los clientes o trabajadores de nuestra empresa mediante un mensaje SMS.
+
+Además, se permite crear una plantilla del mensaje para que aparezca como predeterminado.
 
  [masInformacion]:imagenes_aplicacion/masInformacion_Calendario.jpg
  [menuCalendario]:imagenes_aplicacion/menuCal.jpg
@@ -68,4 +81,6 @@ En la parte superior del calendario, vemos como nos aparenden unas listas, si pi
  [reunionCancelada]:imagenes_aplicacion/reunionRechazada.jpg
  [listadoReunion]:imagenes_aplicacion/listadoReniones.jpg
  [reuniones]:imagenes_aplicacion/listado.jpg
- 
+ [confCalendario]:imagenes_aplicacion/confCalendario.jpg
+ [alertas]:imagenes_aplicacion/alertas.jpg
+ [notfSMS]:imagenes_aplicacion/NotfSMS.jpg
