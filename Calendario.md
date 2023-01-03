@@ -8,6 +8,8 @@
     - [Añadir tarea](#añadir-tarea)
     - [Rechazar invitación](#rechazar-invitación)
 4. [CONFIGURACIÓN](#configuración)
+5. [CREACIÓN DE INFORMES](#creación-de-informes)
+6. [CONCLUSION](#conclusión)
 
 ## **INTRODUCCIÓN**
 Todas las empresas, necesitan mantener un orden y asignar una lista de tareas a realizar de manera diaria, de esta forma, ninguna tarea será olvidada y se realizará todo lo necesarios en un intervalo de tiempo determinado. 
@@ -72,6 +74,15 @@ Como podemos ver, las alertas tambien pueden llegar al numero de telefono de los
 
 Además, se permite crear una plantilla del mensaje para que aparezca como predeterminado.
 
+## **CREACIÓN DE INFORMES**
+En esta aplicación, solo podemos exportar los datos de las alertas mediante un documento de Excel con extension *.xlsx* 
+
+Con las alertas predeterminadas y la creada anteriormente, el documento generado sería 
+![excel]
+
+## **CONCLUSIÓN**
+En resumen, esta aplicación sirve para la gestión de eventos, de los empleados, donde los empleados solo pueden acceder a su calendario *"agenda"* y las personas superiores su propia agenda y la de los trabajadores que tienen en su departamento.
+
  [masInformacion]:imagenes_aplicacion/masInformacion_Calendario.jpg
  [menuCalendario]:imagenes_aplicacion/menuCal.jpg
  [interfazVisual]:imagenes_aplicacion/interfazCalendario.jpg
@@ -84,3 +95,4 @@ Además, se permite crear una plantilla del mensaje para que aparezca como prede
  [confCalendario]:imagenes_aplicacion/confCalendario.jpg
  [alertas]:imagenes_aplicacion/alertas.jpg
  [notfSMS]:imagenes_aplicacion/NotfSMS.jpg
+ [excel]:imagenes_aplicacion/excel.jpg
