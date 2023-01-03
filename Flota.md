@@ -98,9 +98,17 @@ Nos damos cuenta de que la información relevante, se muestra de manera inmediat
 En este apartado, mantenemos un registro de los kilometros realizados con el coche, de manera diaria, mensual, anual etc... se escogerá la que más seguridad conlleve
 ![odometro]
 
+## **Creación de informes**
+Dentro de la propia aplicación, hay una existencia de un apartado llamado **informes** en el cual, nos realiza un gráfico con el coste acumulado del vehiculo mensualmente.
+![informe]
+![grafico]
+Este gráfico, tiene varios ajustes de visualización, es decir, lo podemos ver como un ciclo, tabla excel,grafico de columnas (el actual), de lineas... Esto proporciona una mayor comodidad al empleado. 
+
+Además, este informe puede ser descargado como *.xlsx*
 
 
-
+## **CONCLUSION**
+En resumen, esta aplicación sirve para la gestión de vehiculos, tener todos los documentos en regla y llevar un recuento seguro por si sucede algun imprevisto.
 
 
 [flota]: imagenes_aplicacion/flota.jpg "Opcion flora"
