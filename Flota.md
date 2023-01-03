@@ -14,6 +14,7 @@
       4. [Odometro](#odometro)
   
 4. [CREACIÓN DE INFORMES](#creación-de-informes)
+5. [APLICACIONES INTEGRADAS]
 5. [CONCLUSION](#conclusión)
 
 
@@ -106,6 +107,8 @@ Este gráfico, tiene varios ajustes de visualización, es decir, lo podemos ver 
 
 Además, este informe puede ser descargado como *.xlsx*
 
+## **APLICACIONES INTEGRADAS**
+Esta aplicacion tiene totalmente integradas las aplicaciones de Empleadas, la cual viene de manera predeterminada. Las demás aplicaciones son **gastos, proyecto y sitio web**.
 
 ## **CONCLUSION**
 En resumen, esta aplicación sirve para la gestión de vehiculos, tener todos los documentos en regla y llevar un recuento seguro por si sucede algun imprevisto.
