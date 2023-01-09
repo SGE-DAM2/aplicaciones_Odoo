@@ -3,6 +3,8 @@
 ## **ÍNDICE DE CONTENIDOS**
 1. [INTRODUCCION](#introducción)
 2. [INSTALACIÓN](#instalación)
+3. [TRABAJAR CON LA APLICACIÓN](#trabajar-con-la-aplicación)
+   1. [Menú configuración](#menú-configuración)
 
 ## **INTRODUCCIÓN**
 La aplicación de Compra de Odoo ayuda a llevar un seguimiento de los acuerdos de compra, las cotizaciones y las órdenes de compra. 
@@ -62,6 +64,19 @@ En primer vamos a hechar un vistazo a las posibles configuraciones que tiene est
 Desde aquí podemos hacer todos los ajustes de esta aplicación, el comportamiento general de esta.
 
 ![[ajustes]][compras5]
+
+Comentemos alguna de las opciones que aparecen
+
+***Pedidos***
+Como aparece en la captura de pantalla de arriba permite realizar una Aprobación del pedido de compra para pedidos superiores a cierto importe, bloquear pedidos que se confirmen para evitar su posible edición, si quertemos o no recibir avisos en los pedidos y si queremos recibir un recordatorio en el recibo de la compra.
+El apartado de Acuerdos de Compra es para un tema legal por lo que no entraremos al detalle con ello.
+
+***Facturacion***
+Nos permite realizar un control en las cantidades facturadas por los proveedores.
+
+***Productos***
+Permite realizar distinciones entre productos que son iguales por diferentes atributos que se expecifican en los menús (tamaño, color) e incluso se pueden llegar a añadir otras variantes
+
 
 [compras]: imagenes_compra/logo_compras.JPG
 [compras2]: imagenes_compra/logo_compras2.JPG
