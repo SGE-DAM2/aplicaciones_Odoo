@@ -63,13 +63,13 @@ Desde el primero podremos obtener más información y permisos sobre las instala
 
 - En el buscador introducir el nombre del módulo "Empleados".
 
-![imagen_descarga_Busqueda](imagenes_empleado\descarga1.PNG)
+![imagen_descarga_Busqueda](imagenes_empleado/descarga1.PNG)
 
 - *`(De forma opcional)`* Para obtener más información sobre el módulo, pinchar sobre "…". 
 
 - Y por último pinchar en "Instalar". 
 
-![imagen_descarga_InformacionExtra](imagenes_empleado\descarga2.PNG)
+![imagen_descarga_InformacionExtra](imagenes_empleado/descarga2.PNG)
 
 ---
 ## **RESUMEN FUNCIONALIDAD Y UTILIDADES GENERALES**
