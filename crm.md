@@ -107,11 +107,11 @@ Si deseas utilizar el módulo CRM de Odoo en tu empresa, es importante que lo ha
 
 Espero que esta documentación te haya ayudado a entender el funcionamiento y las características del módulo CRM de Odoo. Si tienes alguna pregunta o necesitas más detalles, no dudes en hacerme saber.
 
-[crm]: imagenes_inventario/crm.JPG "CRM"
-[crm_dashboard]: imagenes_inventario/crm_dashboard.jpg "Dashboard"
-[crm_instalacion]: imagenes_inventario/crm_instalacion.JPG "Instalación"
-[crm_nueva_venta]: imagenes_inventario/crm_nueva_venta.JPG "Nueva oportunidad de venta"
-[crm_crear_venta]: imagenes_inventario/crm_crear_venta.JPG "Creando oportunidad de venta"
-[crm_tarea]: imagenes_inventario/crm_tarea.JPG "Crear tarea"
-[crm_crear_informe]: imagenes_inventario/crm_crear_informe.JPG "Crear informe"
-[crm_configuracion]: imagenes_inventario/crm_configuracion.JPG "Configuración"
+[crm]: imagenes_crm/crm.JPG "CRM"
+[crm_dashboard]: imagenes_crm/crm_dashboard.jpg "Dashboard"
+[crm_instalacion]: imagenes_crm/crm_instalacion.JPG "Instalación"
+[crm_nueva_venta]: imagenes_crm/crm_nueva_venta.JPG "Nueva oportunidad de venta"
+[crm_crear_venta]: imagenes_crm/crm_crear_venta.JPG "Creando oportunidad de venta"
+[crm_tarea]: imagenes_crm/crm_tarea.JPG "Crear tarea"
+[crm_crear_informe]: imagenes_crm/crm_crear_informe.JPG "Crear informe"
+[crm_configuracion]: imagenes_crm/crm_configuracion.JPG "Configuración"
