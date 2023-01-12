@@ -1,10 +1,16 @@
 El módulo de marketing por SMS de Odoo es una herramienta que te permite enviar mensajes de texto a tus contactos o clientes utilizando la plataforma de Odoo. Con este módulo, puedes crear campañas de marketing SMS personalizadas y segmentadas, programarlas para enviarse en un momento específico, y seguir los resultados en tiempo real.
 Entre las características principales del módulo de marketing por SMS de Odoo se incluyen:
+
 •	Crear campañas de marketing SMS personalizadas y segmentadas utilizando la información de tus clientes y contactos.
+
 •	Programar el envío de los mensajes en un momento específico.
+
 •	Seguir los resultados de las campañas en tiempo real, incluyendo estadísticas de entrega, apertura y respuestas.
+
 •	Personalizar los mensajes con información de tus clientes, como su nombre.
+
 •	Integración con otros módulos de Odoo, como CRM o Punto de Venta, para una mejor segmentación y personalización.
+
 Con este módulo, podrás enviar campañas masivas de SMS, y segmentarlas según distintos criterios, ya sea una lista de correos, una categoría de clientes, entre otros. Asimismo se podra programar cuando enviar los mensajes y monitorear su entrega, apertura y respuestas.
 Para comenzar a usar el módulo de marketing por SMS en Odoo, sigue los siguientes pasos:
 1.	Accede a tu instancia de Odoo y asegúrate de tener acceso al módulo de marketing SMS. Puedes comprarlo en la tienda de aplicaciones de Odoo o contactar a un desarrollador para que te lo personalice.
