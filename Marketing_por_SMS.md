@@ -18,6 +18,7 @@ Para comenzar a usar el módulo de marketing por SMS en Odoo, sigue los siguient
 ![Imagen3](imagenes_marketing/sms3.png)
 7.	Haz clic en el botón "Enviar" para iniciar la campaña de marketing SMS. Puedes seguir el progreso de la campaña en tiempo real mediante el uso de las estadísticas y el seguimiento de resultados, ademas de ver los reportes de entrega, apertura, respuestas, etc.
 8.	En este caso sale un error ya que no tenemos una cuenta registrada para enviar SMS
+
 ![Imagen4](imagenes_marketing/sms4.png)
 9.	Una vez completada la campaña, es importante analizar los resultados y sacar conclusiones para mejorar en las siguientes campañas. Puedes ver que mensajes funcionaron mejor, a que horas y fechas se obtuvo una mayor apertura, que mensajes dieron mejores respuestas, entre otros.
 10.	Ahora, para próximas campañas, puedes reutilizar los mensajes y segmentos de contactos que hayan dado buenos resultados, así como también ir mejorando en la programación y segmentación de la campaña.
