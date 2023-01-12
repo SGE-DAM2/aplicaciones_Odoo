@@ -234,6 +234,11 @@ Finalmente, validamos el pedido y nos aparecerá la siguiente pantalla:
 
 En esta pantalla nos aparecerá a la derecha el recibo del pedido que acabamos de realizar y nos da la opción de enviarle por correo electrónico dicho recibo al cliente.  
 
+También tendremos la opción de imprimir el recibo por si nos interesa guardarlo.  
+Para esta demostración, se guardará [este archivo](Recibo_Punto_de_Venta.pdf) como PDF.
+
+![imprimir_pdf]
+
 A partir de aquí podemos salirnos de la aplicación, o empezar un nuevo pedido.  
 
 ---
@@ -273,3 +278,4 @@ Gracias al **Punto de Venta**, se pueden realizar de manera sencilla, rápida e 
 [prod_mod]: imagenes_punto_venta/precio_modificado.png "Precio de producto modificado"
 [realizar_pago]: imagenes_punto_venta/realizar_pago.png "Pantalla para realizar el pago"
 [validar_pedido]: imagenes_punto_venta/pedido_finalizado.png "Pedido realizado"
+[imprimir_pdf]: imagenes_punto_venta/imprimir_pdf.png "Imprimir el recibo"
