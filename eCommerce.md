@@ -180,8 +180,8 @@ Es decir, que por si sola solo vale para hacer facturas así que sin una empresa
 
 
 [banner]: imagenes_eCommerce/banner.PNG 
-[categoríaNueva]: imagenes_eCommerce/categoriaNueva.PNG 
-[categoríaNueva2]: imagenes_eCommerce/categoríaNueva2 
+[categoríaNueva]: imagenes_eCommerce/categoríaNueva.PNG 
+[categoríaNueva2]: imagenes_eCommerce/categoríaNueva2.PNG 
 [clientes]:  imagenes_eCommerce/clientes.PNG 
 [eCommerce]: imagenes_eCommerce/eCommerce.PNG 
 [instalacion]: imagenes_eCommerce/instalacion.PNG
