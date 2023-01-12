@@ -38,7 +38,7 @@ Al entrar por primera vez en la sección de sitio web (la aplicación de eCommer
 
 Obviamente es muy sosa y no tiene nada añadido, así que lo primero será hacer caso a lo que nos dicen y pulsar en el botón editar.
 
-### Editando la página web
+### ***Editando la página web***
 
 Como se puede ver un menú aparece al lado derecho de la pantalla y nos permite empezar a añadir bloques a la página web. Como solo necesitas una web básica, vamos a usar el ejemplo de los banner para explicar como añadir bloque desde el menú editar.
 ![menu_editar]
