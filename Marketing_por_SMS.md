@@ -20,6 +20,7 @@ Para comenzar a usar el módulo de marketing por SMS en Odoo, sigue los siguient
 8.	En este caso sale un error ya que no tenemos una cuenta registrada para enviar SMS
 
 ![Imagen4](imagenes_marketing/sms4.png)
+
 9.	Una vez completada la campaña, es importante analizar los resultados y sacar conclusiones para mejorar en las siguientes campañas. Puedes ver que mensajes funcionaron mejor, a que horas y fechas se obtuvo una mayor apertura, que mensajes dieron mejores respuestas, entre otros.
 10.	Ahora, para próximas campañas, puedes reutilizar los mensajes y segmentos de contactos que hayan dado buenos resultados, así como también ir mejorando en la programación y segmentación de la campaña.
 11.	Antes de enviar la campaña, es recomendable realizar una prueba de envío a un pequeño grupo de contactos para asegurarte de que todo está configurado correctamente y que el mensaje se ve y se recibe de la manera deseada.
