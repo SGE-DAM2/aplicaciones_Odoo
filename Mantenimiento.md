@@ -12,11 +12,11 @@
     4. [INFORMES](#informes)
     5. [CONFIGURACIÓN](#configuración)
     6. [CASOS DE USO](#casos-de-uso)
-       1. [CONDICIONES DEL ESCENARIO]()
-       2. [CREAR UNA PETICIÓN DE MANTENIMIENTO]()
-       3. [CREAR NUEVA CATEGORÍA DE EQUIPAMIENTO Y USARLA]()
-       4. [CREAR NUEVO EQUIPO DE MANTENIMIENTO Y DARLES UNA PETICIÓN]()
-       5. [FINALIZAR UNA PETICIÓN]()
+       1. [CONDICIONES DEL ESCENARIO](#condiciones-del-escenario)
+       2. [CREAR UNA PETICIÓN DE MANTENIMIENTO](#crear-una-petición-de-mantenimiento)
+       3. [CREAR NUEVA CATEGORÍA DE EQUIPAMIENTO Y USARLA](#crear-una-nueva-categoría-de-equipamiento-y-usarla)
+       4. [CREAR NUEVO EQUIPO DE MANTENIMIENTO Y DARLES UNA PETICIÓN](#crear-un-nuevo-equipo-de-mantenimiento-y-darles-una-petición)
+       5. [FINALIZAR UNA PETICIÓN](#finalizar-una-petición)
 
 ## Resumen de la aplicación
 Esta aplicación nos permite gestionar los mantenimientos que debes hacer en tu empresa y asignarselos a equipos de mantenimiento, los cuales se encargaran de realizar el mantenimiento, también te permite gestionar el equipamiento que llevarán los equipos a la hora de realizar el mantenimiento
@@ -152,6 +152,9 @@ Una vez asignado el equipo damos a crear
 
 ### Finalizar una petición
 Para ello iremos  a [mantenimiento](#mantenimiento) y a [peticiones de mantenimiento](#peticiones-de-mantenimiento) y daremos clic en la petición a finalizar, seguido clicamos en Reparado (en caso de querer guardar la petición), o en deshechar, si queremos eliminar las peticiones finalizadas
+
+#### Punto fuera del contexto de la actividad hasta cierto punto
+No tengo ningún punto de exportación de datos, porque no he encontrado ninguna opción de exportación dentro de la propia aplicación de mantenimiento
 
 
 [instalarMantenimiento]: imagenes_mantenimiento/instalarMantenimiento.png "Apartado mantenimiento"
