@@ -95,4 +95,4 @@ En resumen, esta aplicación sirve para la gestión de eventos, de los empleados
  [confCalendario]:imagenes_aplicacion/confCalendario.jpg
  [alertas]:imagenes_aplicacion/alertas.jpg
  [notfSMS]:imagenes_aplicacion/NotfSMS.jpg
- [excel]:imagenes_aplicacion/excel.jpg
+ [excel]:imagenes_aplicacion/excel2.jpg
