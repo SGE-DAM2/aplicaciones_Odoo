@@ -50,7 +50,7 @@ Una vez en la aplicación de Sitio Web, deberemos acceder al botón de Personali
 Como ejemplo para el resto del trabajo, yo integraré Comercio Electrónico, y todas las imagenes mostrarán la integración con Comercio Electrónico, aunque hay integración con muchas otras aplicaciones. A pesar de usar esta integración como ejemplo, limitaré la explicación a las funciones del Sitio web.
 
 
-![!integracion]
+![integracion]
 
 ---
 
@@ -79,16 +79,16 @@ La aplicación toma como base una página web en blanco muy similar a la vista e
 El botón Editar nos abre un menú de componentes, bloques y similares para hacer un diseño web intuitivo, junto con una pestaña para configurar  opciones estéticas
 
 
-![!editor1] ![!editor2]
+![editor1] ![editor2]
 
 A su vez, genera una página de contacto, que muestra dirección, correo, telefono y otros datos de contacto de la empresa.
 Estas aparecen a su vez en el pie de página generado automáticamente en la parte inferior
 
 
-![!contacto]
+![contacto]
 
 
-![!piePagina]
+![piePagina]
 
 ---
 
@@ -100,19 +100,19 @@ Podemos acceder a los ajustes de la aplicación desde la pestaña de Configuraci
 
 En la parte superior de la configuración, elegimos mediante un desplegable a qué página queremos aplicar los cambios.
 
-![!ajustes1]
+![ajustes1]
 
 
 Una vez seleccionamos nuestra web, podemos modificar los elementos básicos de la misma, como nombre, compañía, idiomas, dominios, y URLs de redes sociales. Bajo los ajustes de la web en sí, podemos configurar aspectos de la web relativos a las aplicaciones de Odoo integradas en la web.
 
 
 
-![!ajustes2]
+![ajustes2]
 
 La parte inferior muestra también opciones relativas al SEO y promoción de la web.
 
 
-![!ajustes3]
+![ajustes3]
 
 
 ---
@@ -125,7 +125,7 @@ La parte inferior muestra también opciones relativas al SEO y promoción de la 
 Si queremos crear un nuevo sitio web, aparte del generado automaticamente al instalar la aplicación, deberemos dirigirnos a los ajustes de la aplicación, desde la pestaña de Analítica o desde el menú de ajustes de Odoo. Una vez ahí, el botón "Crear un nuevo sitio web" nos abre un cuadro con la información básica a introducir para crear una web.
 
 
-![!nuevaWeb]
+![nuevaWeb]
 
 Tras esto, nos mostrará la pestaña de selección de plantilla predeterminada, en caso de que queramos utilizar una, y nos dará acceso al editor.
 
@@ -140,26 +140,26 @@ El editor parte principalmente de los botones de la barra superior de la aplicac
 
 El Botón Nuevo en la barra superior de la aplicación permite crear otra página u otros apartados de la web relacionados con la integración de Odoo, como blogs, foros, ofertas de trabajo y más, dentro de la web actual.
 
-![!editor3]
+![editor3]
 
 Pulsando el botón editar, entramos en el modo de edición. Al salir del modo edición, se nos ofrece siempre las opciones de guardar o descartar los cambios realizados en la última edición.
 
 
-![!editor4]
+![editor4]
 
 A la parte derecha, un cuadro de herramientas con una gran cantidad de bloques y componenetes, tanto estáticos como dinámicos, nos permiten personalizar la página web a nuestro gusto, inclutyendo desde bloques de texto y enlaces hasta listas de precios, accesos a Google Maps y popups. Podemos editar todos los componentes y bloques de manera gráfica o con código en la pestaña correespondiente.
 Además, una de las pestañas del menú de edición nos permiten modificar opciones estéticas como fuentes, el tema, colores y estilos.
 
 
-![!editor5]
+![editor5]
 
 
-![!editor6]
+![editor6]
 
 Además, la opción de "Cambiar Tema" en la pestaña de editar tema del editor nos permitirá elegir una plantilla de entre varias plantillas predefinidas disponibles. A partir de aquí, utilizaremos la plantilla "CLEAN" para el ejemplo.
 
 
-![!plantilla]
+![plantilla]
 
 
 ---
@@ -171,23 +171,23 @@ Además, la opción de "Cambiar Tema" en la pestaña de editar tema del editor n
 Además de todo esto, desde la pestaña de Editor HTML/CSS/JS del botón Personalizar, podremos modificar el codigo fuente de nuestra web directamente con los lenguajes indicados.
 
 
-![!editor7]
+![editor7]
 
 Para controlar el sistema de ventanas de la aplicación, así como determinar la URL o administrar la visibilidad de las distintas ventanas, utilizamos las distintas opciones del botón Páginas de la barra superior.
 
 
-![!editor8] ![!editor9]
+![editor8] ![editor9]
 
 
 El interruptor de publicado nos permite decidir si nuestra página es visible para usuarios que accedan a la URL.
 
 
-![!publicado]
+![publicado]
 
 La previsualización de móvil nos muestra una versión creada automáticamente para móvil de nuestra web, reescalando los bloques y controles.
 
 
-![!editor10]
+![editor10]
 
 Además, podemos usar el desplegable de la zona superior para elegir qué web utilizar al momento, pudiento manejar varias webs para una misma compañía.
 
@@ -201,7 +201,7 @@ Además, podemos usar el desplegable de la zona superior para elegir qué web ut
 La pestaña personalizar de la barra superior, aparte de dar acceso a la integración y el editor de código, cambia y añade funciones en función de las aplicaciones integradas. Sin ninguna integración, la única opción extra de personalizar es el rastreo de visitas.
 
 
-![!personalizar]
+![personalizar]
 
 
 ---
@@ -213,7 +213,7 @@ La pestaña personalizar de la barra superior, aparte de dar acceso a la integra
 Aparte de todas estas opciones de previsualización, otra de las pestañas de la aplicación, promover, nos permite ver y modificar opciones que ayudan al posicionamiento de nuestra página en función del SEO, así como previsualizar nuestro resultado de búsqueda en el navegador.
 
 
-![!SEO]
+![SEO]
 
 Podemos modificar elementos importantes para el SEO y la visibilidad de nuestra web en buscadores, como las palabras clave, idiomas, o la imagen visible.
 
@@ -226,7 +226,7 @@ El editor, aparte de darnos una pestaña de inicio, otra de contacto y el pie de
 Al instalar aplicaciones de Odoo con integración del Sitio Web, el perfil de usuario es modificado y editado automaticamente para manejar las aplicaciones instaladas.
 
 
-![!cuenta]
+![cuenta]
 
 
 ---
@@ -238,7 +238,7 @@ Al instalar aplicaciones de Odoo con integración del Sitio Web, el perfil de us
 La aplicación de sitio web de Odoo cuenta con una pestaña de Analítica que permite ver estadísticas y datos de la misma. Esta pestaña mostrará también las analíticas de las distintas integraciones de la web. En cuando a la web en sí, posee integración con Google Analytics para ver las visitas y actividad de la página.
 
 
-![!analítica1]
+![analítica1]
 
 
 ![analítica2]
